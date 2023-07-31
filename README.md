@@ -29,7 +29,7 @@ Dataviz - A sorting algorithm visualizer
 
 ### Built With
 
-- [React JS](https://reactjs.org/)
+- HTML,CSS,JS
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
